@@ -1,1 +1,1 @@
-# Intelligent-Tutoring-System-Project
+# Salary-Prediction-Project
